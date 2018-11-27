@@ -1,8 +1,11 @@
 Text Prediction App 
 ========================================================
 author: yagnesh0
+
 date: 2/6/18
+
 autosize: true
+
 Captstone for Data Science Specialization by Johns Hopkins University on Coursera
 
 Text Prediction App
